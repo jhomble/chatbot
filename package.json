@@ -1,0 +1,19 @@
+{
+  "name": "spbot",
+  "version": "1.0.0",
+  "description": "facebook chat bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhomble/spbot.git"
+  },
+  "author": "Julien Homble",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhomble/spbot/issues"
+  },
+  "homepage": "https://github.com/jhomble/spbot#readme"
+}
